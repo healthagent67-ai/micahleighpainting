@@ -1,0 +1,10 @@
+{
+  "name": "micahleighpainting",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketing site for Micah Leigh Painting",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs"
+  }
+}
